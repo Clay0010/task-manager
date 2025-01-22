@@ -1,0 +1,82 @@
+{
+    "boards": [
+      {
+        "id": 1,
+        "title": "Web Development Project",
+        "lists": [
+          {
+            "id": 1,
+            "title": "Backlog",
+            "tasks": [
+              {
+                "id": 1,
+                "title": "Setup Development Environment",
+                "description": "Install Node.js, React, etc."
+              },
+              {
+                "id": 2,
+                "title": "Create API",
+                "description": "Develop backend API"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "title": "In Progress",
+            "tasks": [
+              {
+                "id": 3,
+                "title": "Design UI",
+                "description": "Create wireframes for the app"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "title": "Completed",
+            "tasks": [
+              {
+                "id": 4,
+                "title": "Deploy to Production",
+                "description": "Deploy the app to Heroku"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Mobile App Development",
+        "lists": [
+          {
+            "id": 4,
+            "title": "Backlog",
+            "tasks": [
+              {
+                "id": 5,
+                "title": "Setup Development Environment",
+                "description": "Install Android Studio"
+              },
+              {
+                "id": 6,
+                "title": "Create API",
+                "description": "Develop mobile app API"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "title": "In Progress",
+            "tasks": [
+              {
+                "id": 7,
+                "title": "Design Mobile App",
+                "description": "Create designs for the mobile app"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
